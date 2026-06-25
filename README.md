@@ -3,6 +3,10 @@
 Sistema completo de automacao residencial para apartamento 70m2 usando ESP32, sensores IoT e Home Assistant.
 
 ## Estrutura do Projeto
+
+- documentacao/ (6 componentes documentados)
+- seguranca/ (OWASP IoT Top 10)
+
 ## Projetos Wokwi
 
 - Sala Inteligente (DHT22, PIR, LDR, Rele)
@@ -14,8 +18,9 @@ Sistema completo de automacao residencial para apartamento 70m2 usando ESP32, se
 
 ## Autor
 
-Henry - Especialista em IoT Security
+Henry
 - Formado em Cyberseguranca
+- Aprendendo IoT e Electronica
 - Estudando Engenharia Eletrica
 
 ## Licenca
