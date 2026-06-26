@@ -6,6 +6,7 @@ Sistema completo de automacao residencial para apartamento 70m2 usando ESP32, se
 
 - documentacao/ (6 componentes documentados)
 - seguranca/ (OWASP IoT Top 10)
+- mqtt/ (MQTT com TLS - HiveMQ Cloud)
 
 ## Projetos Wokwi
 
@@ -15,6 +16,13 @@ Sistema completo de automacao residencial para apartamento 70m2 usando ESP32, se
 - LED RGB (16.7 milhoes de cores)
 - Servo SG90 (0-180 graus)
 - Buzzer Piezo (sons e frequencias)
+- ESP32 + MQTT com TLS (HiveMQ Cloud)
+
+## Seguranca
+
+- MQTT com TLS (porta 8883)
+- Autenticacao usuario/senha
+- OWASP IoT Top 10 implementado
 
 ## Autor
 
